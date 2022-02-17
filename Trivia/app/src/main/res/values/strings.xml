@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Arora Trivia</string>
+    <string name="title_text">Trivia Game</string>
+    <string name="question_number_placeholder">Question 188/999</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="question_placeholder">This is where the actually question will show. This is the question: is it true or false?</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="incorrect_answer">Incorrect...</string>
+    <string name="question_counter">Question: %d/%d</string>
+    <string name="current_score_placeholder">Current Score : 200</string>
+    <string name="high_score_placeholder">High Score: 999999999</string>
+    <string name="current_score">Current Score : %d</string>
+    <string name="high_score">High Score : %d</string>
+    <string name="share_button">Share</string>
+    <string name="start_button">Start New Game</string>
+    <string name="catergory_header_placeholder">General Knowledge</string>
+    <string name="options_button">Options</string>
+    <string name="speed_option">Speed</string>
+    <string name="options_header">Options</string>
+    <string name="options_save_button_text">Save</string>
+    <string name="speed_description">Determines how quickly the next question will be shown after a question is answered.</string>
+    <string name="endscreen_header">Arora Trivia</string>
+    <string name="end_subhead">End of Game Overview</string>
+    <string name="number_correct_endscreen_subhead">Number Correct :</string>
+    <string name="high_score_subhead">High Score :</string>
+    <string name="close_endscreen_button">Return to Start Screen</string>
+    <string name="previous_button_text">Previous</string>
+    <string name="end_game_button_text">End Game</string>
+    <string name="loading_questions">Loading Questions...</string>
+    <string name="your_score">Your Score :</string>
+    <string name="general_knowledge">General Knowledge</string>
+    <string name="drop_down_arrow_content_descrip">Downward arrow</string>
+
+
+    <string-array name="trivia_categories">
+        <item>General Knowledge</item>
+        <item>Film</item>
+        <item>Music</item>
+        <item>Television</item>
+        <item>Video Games</item>
+        <item>Nature</item>
+        <item>Computers</item>
+        <item>Math</item>
+        <item>Mythology</item>
+        <item>Sports</item>
+        <item>Geography</item>
+        <item>History</item>
+        <item>Politics</item>
+        <item>Animals</item>
+        <item>Vehicles</item>
+        <item>Japanese Manga</item>
+        <item>Cartoons and Animation</item>
+    </string-array>
+
+    <string-array name="speed_options_array">
+        <item>Medium</item>
+        <item>Slow</item>
+        <item>Fast</item>
+    </string-array>
+
+</resources>
