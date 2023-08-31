@@ -197,7 +197,7 @@ public class MainActivity extends AppCompatActivity {
 
         boolean answer = questionList.get(currentQuestionIndex).isAnswer();
 
-        if(answer == true){
+        if(answer){
             binding.trueButton.setTextColor(Color.GREEN);
             binding.falseButton.setTextColor(Color.RED);
         }
